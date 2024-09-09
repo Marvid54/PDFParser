@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4M5M98a2usrcMowz9ff/JebsAsl0niQKOHs9TwjeBDFdTmqMpfbwbOqsqCqPVlKmBmQChocc9fBEpa+dFbhbUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artur\\source\\repos\\FreePDFParser\\FreePDFParser\\FreePDFParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
